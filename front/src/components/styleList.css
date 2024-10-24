@@ -1,0 +1,25 @@
+/* styles.css */
+.custom-table {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin: 20px;
+  }
+  
+  .custom-table .p-datatable-header {
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  .custom-table .p-datatable-tbody {
+    background-color: #fff;
+  }
+  
+  .custom-table .p-datatable .p-datatable-thead > tr > th {
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .custom-table .p-datatable .p-datatable-tbody > tr > td {
+    font-size: 14px;
+  }
+  
